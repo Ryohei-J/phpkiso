@@ -35,7 +35,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <title>送信完了</title>
+  <title>送信が完了しました</title>
   <meta charset="utf-8">
 </head>
 <body>
